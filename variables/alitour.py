@@ -26,3 +26,5 @@ z = 200
 
 #change the player's position
 mc.player.setTilePos(x, y, z)
+
+x
