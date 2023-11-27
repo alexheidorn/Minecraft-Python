@@ -161,6 +161,7 @@ cython_debug/
 
 #Minecraft Tools
 /Minecraft Tools*
+/Update*
 
 #VSCode Shtuff
 *.code*
