@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 #Minecraft Tools
-/Minecraft Tools
+/Minecraft Tools*
 
 #VSCode Shtuff
 *.code*
