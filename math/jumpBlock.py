@@ -8,4 +8,9 @@ z = pos.z
 blockType = 1 
 
 mc.player.setTilePos(x, y + 10, z)
-mc.setBlock(x, y + 9, z, blockType)
+
+pos = mc.player.getTilePos()
+x = pos.x
+y = pos.y
+z = pos.z
+mc.setBlock(x, y - 1, z, blockType)
