@@ -6,3 +6,5 @@ x = positon.x
 y = positon.y
 z = positon.z
 
+x = x + 5
+mc.player.setTilePos(x, y, z)
